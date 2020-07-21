@@ -1,4 +1,4 @@
-<img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions">
+<img src="https://github.com/AdityaKumar4/C-Programming/blob/master/Daily%20C%20problems/c%20logo.jpg" width="500" height="150">
 # C-Programming
 <br>
 > These are some of the basic c programming code which I just uploaded to store saperately :)
